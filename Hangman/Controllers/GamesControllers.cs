@@ -5,6 +5,6 @@ namespace Hangman.Controllers
 {
   public class GamesController : Controller
   {    
-  
+    
   }
 }
